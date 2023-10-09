@@ -1,0 +1,13 @@
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\bin\Debug\Laba_Ku_N1.exe.config
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\bin\Debug\Laba_Ku_N1.exe
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\bin\Debug\Laba_Ku_N1.pdb
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.csproj.AssemblyReference.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.csproj.SuggestedBindingRedirects.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.Form1.resources
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.Form2.resources
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.Properties.Resources.resources
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.csproj.GenerateResource.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.csproj.CoreCompileInputs.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.exe
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.pdb
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba_Ku_N1\Laba_Ku_N1\obj\Debug\Laba_Ku_N1.Form3.resources
